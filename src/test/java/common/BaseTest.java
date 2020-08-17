@@ -1,7 +1,7 @@
 package common;
 
-import org.junit.After;
-import org.junit.Before;
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
 import org.openqa.selenium.WebDriver;
 import tools.DriverManagerFactory;
 import tools.DriverType;
